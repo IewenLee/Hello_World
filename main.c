@@ -1,5 +1,4 @@
 void main(void) {
-  print("Bonjour world!")
-  
+  print("Bonjour World!")
   while(True);
 }

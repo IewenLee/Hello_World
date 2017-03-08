@@ -1,4 +1,10 @@
+#include <stdio.h>
+
 void main(void) {
-  print("Bonjour World!")
-  while(True);
+  // comment line
+  printf("Bonjour World!\n")
+    
+  while(True) { 
+    sleep(1); printf("Tick!\n") 
+  };
 }

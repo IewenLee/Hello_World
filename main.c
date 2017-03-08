@@ -2,9 +2,9 @@
 
 void main(void) {
   // comment line
-  printf("Bonjour World!\n")
+  printf("Testing World!\n")
     
   while(True) { 
-    sleep(1); printf("Tick!\n") 
+    sleep(2); printf("Tic Toc!\n") 
   };
 }
